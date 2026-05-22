@@ -5,6 +5,10 @@
 We take security issues seriously, and encourage users and developers alike
 to report them.
 
+## Disclosure policy
+
+COMING SOON!
+
 ## Reporting security incidents
 
 Please send mail to [security@illumos.org](mailto:security@illumos.org)
